@@ -4,7 +4,7 @@
         "type": "tab",
         "label": "Button+ example",
         "disabled": false,
-        "info": "Example flow for node-red-contrib-buttonplus"
+        "info": "Example flow for @nielseulink/node-red-contrib-buttonplus"
     },
     {
         "id": "example-mqtt",

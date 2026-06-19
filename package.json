@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-buttonplus",
+  "name": "@nielseulink/node-red-contrib-buttonplus",
   "version": "1.0.0",
   "description": "Node-RED nodes for controlling Button+ devices via MQTT",
   "main": "nodes/buttonplus-config.js",
@@ -13,12 +13,16 @@
     "home-automation",
     "iot"
   ],
-  "author": "",
+  "author": "Niels Eulink <nielseulink@users.noreply.github.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/node-red-contrib-buttonplus.git"
+    "url": "https://github.com/nielseulink/buttonplus-nodered.git"
   },
+  "bugs": {
+    "url": "https://github.com/nielseulink/buttonplus-nodered/issues"
+  },
+  "homepage": "https://github.com/nielseulink/buttonplus-nodered#readme",
   "engines": {
     "node": ">=18"
   },
