@@ -1,6 +1,6 @@
 {
   "name": "@nielseulink/node-red-contrib-buttonplus",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Node-RED nodes for controlling Button+ devices via MQTT",
   "main": "nodes/buttonplus-config.js",
   "scripts": {
