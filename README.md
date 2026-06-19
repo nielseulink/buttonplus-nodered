@@ -209,7 +209,7 @@ With prefix `buttonplus` and device `buttonplus_1`:
 | Button top label         | `.../button/{button}-{page}/toplabel/set`                                          |
 | Button value label       | `.../button/{button}-{page}/label/set`                                             |
 | Button SVG               | `.../button/{button}-{page}/svg/set`                                               |
-| Button LED               | `.../button/{button}-{page}/led/{front                                             |
+| Button LED               | `.../button/{button}-{page}/led/{front or wall}/rgb/set`, `.../brightness/set`, `.../on/set` |
 | Display item             | `.../displayitem/{item}/label/set`, `.../value/set`, `.../unit/set`, `.../svg/set` |
 | Global page              | `buttonplus/buttonplus_1/page/set`                                                 |
 | Global brightness        | `buttonplus/buttonplus_1/brightness/set`                                           |
